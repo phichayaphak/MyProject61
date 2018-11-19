@@ -8,4 +8,5 @@ void main(){
 	}
 	
 	printf("%d",score[5]);
+printf("Sawadee BIS3Q");
 
