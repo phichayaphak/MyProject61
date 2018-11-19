@@ -5,6 +5,7 @@ void main(){
 	score[7] = 8+15;
 	printf[score[5]] = score[7];//
 	printf("%d\n",score[7]);
-	
+	kdfjkjklsdfjsdf
+sdfjsdfjksdfksdf
 	
 }
